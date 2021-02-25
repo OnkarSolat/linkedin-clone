@@ -4,13 +4,14 @@
 }
 
 .feed__inputContainer {
-    display: flex;
+    
     justify-content: space-evenly;
     padding-bottom: 20px;
     border-radius: 10px;
     margin-bottom: 20px;
-
+    width: 100%;
 }
+
 .feed__input {
     border: 1px solid lightgray;
     border-radius: 30px;
@@ -35,4 +36,12 @@
 
 .feed__input > form > button {
     display: none;
+}
+
+.feed__inputOptions {
+    
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    font-size: small;
 }
