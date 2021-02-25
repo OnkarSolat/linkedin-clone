@@ -1,15 +1,18 @@
 .feed {
     flex: 0.6;
     margin: 0 20px;
+    
 }
 
 .feed__inputContainer {
     
     justify-content: space-evenly;
     padding-bottom: 20px;
+    padding-top: 10px;
     border-radius: 10px;
     margin-bottom: 20px;
     width: 100%;
+    background-color: white;
 }
 
 .feed__input {
@@ -19,6 +22,7 @@
     padding: 10px;
     color: gray;
     padding-left: 15px;
+    
 }
 
 .feed__input > form {
