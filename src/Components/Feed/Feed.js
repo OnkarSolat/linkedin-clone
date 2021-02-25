@@ -78,9 +78,14 @@ const sendPost = (e) => {
         <Post name="Unsorted Array"
         description="Mentor|Instructor|Buddy"
         message="How are you all doin?Check this out..."
-        photoUrl="https://images.idgesg.net/images/article/2019/08/cso_nw_promoting_an_idea_lightbulb_technology_gear_by_natali_mis_gettyimages-1024234886_2400x1600-100808095-large.jpg"
+        photoUrl="https://www.w3schools.com/css/paris.jpg"
         />
 
+<Post name="Hritik Roshan"
+        description="Actor|Dancer|Producer"
+        message="This facinates me"
+        photoUrl="https://media-exp1.licdn.com/dms/image/C4D22AQFYw2CTvmK7Cg/feedshare-shrink_800/0/1614160222468?e=1617235200&v=beta&t=6lHkr46vv44QhQlx_Ez8Vap1E2qFvfHUuIMnP6n9QUI"
+        />
 
         {/* ***********************************Fake data***************************************** */}
     </div>
