@@ -44,7 +44,7 @@ const sendPost = (e) => {
                 <CreateIcon />
                 <form>
                     <input value={input} onChange={e => setInput(e.target.value)} type="text"/>
-                    <button onclick={sendPost} type="submit">
+                    <button onClick={sendPost} type="submit">
                          Send
                     </button>
                 </form>
